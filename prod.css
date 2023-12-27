@@ -1,0 +1,13 @@
+.diva{
+    font-size: large;
+    position: relative;
+    left: 50px;
+}
+.divan{
+    border: 2px solid black;
+    width: 150px;
+}
+.cena{
+    border: 2px solid black;
+    width: 150px;
+}
